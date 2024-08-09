@@ -1,9 +1,11 @@
-import Counter from "./components/Counter";
+// import Counter from "./components/Counter";
+import TodoList from "./components/TodoList";
 import "./styles.css";
 function App() {
   return (
     <div>
-      <Counter />
+      {/* <Counter /> */}
+      <TodoList />
     </div>
   );
 }
