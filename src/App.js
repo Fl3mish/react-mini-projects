@@ -1,10 +1,10 @@
-// import Counter from "./components/Counter";
+// import Counter from "./components/counter/Counter";
 // import TodoList from "./components/TodoList";
 // import MealApi from "./components/MealApi";
 // import Calculator from "./components/calculator/Calculator";
 // import ToggleColor from "./components/toggleColor/ToggleColor";
 // import HiddenSearchBar from "./components/hiddenSearchBar/HiddenSearchBar";
-import Testimonials from "./components/testimonials/Testimonials";
+// import Testimonials from "./components/testimonials/Testimonials";
 
 // import "./styles.css";
 function App() {
@@ -16,7 +16,7 @@ function App() {
       {/* <Calculator /> */}
       {/* <ToggleColor /> */}
       {/* <HiddenSearchBar /> */}
-      <Testimonials />
+      {/* <Testimonials /> */}
     </div>
   );
 }
