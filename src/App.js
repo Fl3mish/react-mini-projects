@@ -5,6 +5,7 @@
 // import ToggleColor from "./components/toggleColor/ToggleColor";
 // import HiddenSearchBar from "./components/hiddenSearchBar/HiddenSearchBar";
 // import Testimonials from "./components/testimonials/Testimonials";
+import AccordionList from "./components/accordion/AccordionList";
 
 import "./styles.css";
 function App() {
@@ -17,6 +18,7 @@ function App() {
       {/* <ToggleColor /> */}
       {/* <HiddenSearchBar /> */}
       {/* <Testimonials /> */}
+      <AccordionList />
     </div>
   );
 }
