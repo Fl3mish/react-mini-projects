@@ -1,4 +1,5 @@
 import { useState } from "react";
+import "./styles.css";
 import { v4 as uuid } from "uuid";
 
 export default function TodoList() {

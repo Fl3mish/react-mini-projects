@@ -1,5 +1,5 @@
 // import Counter from "./components/counter/Counter";
-// import TodoList from "./components/TodoList";
+import TodoList from "./components/todoList/TodoList";
 // import MealApi from "./components/MealApi";
 // import Calculator from "./components/calculator/Calculator";
 // import ToggleColor from "./components/toggleColor/ToggleColor";
@@ -11,7 +11,7 @@ function App() {
   return (
     <div>
       {/* <Counter /> */}
-      {/* <TodoList /> */}
+      <TodoList />
       {/* <MealApi /> */}
       {/* <Calculator /> */}
       {/* <ToggleColor /> */}
