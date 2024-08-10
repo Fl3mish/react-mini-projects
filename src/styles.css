@@ -5,7 +5,7 @@
 }
 
 /* comment out body when displaying mealapi.js */
-/* body {
+body {
   background-color: rgb(29, 29, 29);
   height: 100vh;
   display: flex;
@@ -14,4 +14,4 @@
   align-items: center;
   text-align: center;
   color: #fff;
-} */
+}

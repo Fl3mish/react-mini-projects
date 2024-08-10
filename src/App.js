@@ -1,6 +1,6 @@
 // import Counter from "./components/counter/Counter";
 // import TodoList from "./components/todoList/TodoList";
-import MealApi from "./components/mealApi/MealApi";
+// import MealApi from "./components/mealApi/MealApi";
 // import Calculator from "./components/calculator/Calculator";
 // import ToggleColor from "./components/toggleColor/ToggleColor";
 // import HiddenSearchBar from "./components/hiddenSearchBar/HiddenSearchBar";
@@ -12,7 +12,7 @@ function App() {
     <div>
       {/* <Counter /> */}
       {/* <TodoList /> */}
-      <MealApi />
+      {/* <MealApi /> */}
       {/* <Calculator /> */}
       {/* <ToggleColor /> */}
       {/* <HiddenSearchBar /> */}
