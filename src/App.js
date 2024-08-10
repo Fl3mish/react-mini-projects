@@ -2,8 +2,8 @@
 // import TodoList from "./components/TodoList";
 // import MealApi from "./components/MealApi";
 // import Calculator from "./components/calculator/Calculator";
-
-import ToggleColor from "./components/toggleColor/ToggleColor";
+// import ToggleColor from "./components/toggleColor/ToggleColor";
+import HiddenSearchBar from "./components/hiddenSearchBar/HiddenSearchBar";
 
 // import "./styles.css";
 function App() {
@@ -13,7 +13,8 @@ function App() {
       {/* <TodoList /> */}
       {/* <MealApi /> */}
       {/* <Calculator /> */}
-      <ToggleColor />
+      {/* <ToggleColor /> */}
+      <HiddenSearchBar />
     </div>
   );
 }
