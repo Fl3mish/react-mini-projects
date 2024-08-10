@@ -1,3 +1,4 @@
+import "./styles.css";
 // import Counter from "./components/counter/Counter";
 // import TodoList from "./components/todoList/TodoList";
 // import MealApi from "./components/mealApi/MealApi";
@@ -5,9 +6,9 @@
 // import ToggleColor from "./components/toggleColor/ToggleColor";
 // import HiddenSearchBar from "./components/hiddenSearchBar/HiddenSearchBar";
 // import Testimonials from "./components/testimonials/Testimonials";
-import AccordionList from "./components/accordion/AccordionList";
+// import AccordionList from "./components/accordion/AccordionList";
+import Validate from "./components/formValidation/Validate";
 
-import "./styles.css";
 function App() {
   return (
     <div>
@@ -18,7 +19,8 @@ function App() {
       {/* <ToggleColor /> */}
       {/* <HiddenSearchBar /> */}
       {/* <Testimonials /> */}
-      <AccordionList />
+      {/* <AccordionList /> */}
+      <Validate />
     </div>
   );
 }
